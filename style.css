@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  background-color: lightgray;
+  border: 1px solid black;
+  padding-left: 2rem;
+}
+ul > li {
+  font-weight: bold;
+  color: green;
+}
